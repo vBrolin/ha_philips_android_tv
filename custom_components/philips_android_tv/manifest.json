@@ -5,4 +5,5 @@
   "dependencies": [],
   "codeowners": [],
   "requirements": ["wakeonlan"]
+  "version: 1.0
 }
